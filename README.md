@@ -1,7 +1,9 @@
 # EXPERIMENT--01-ALP-FOR-8086
-Name :
-Roll no 
-Date of experiment :
+
+Name : Dharini PV
+
+Register no : 212222240024
+Date of experiment : 
 
 
 
@@ -78,25 +80,110 @@ Running The Emulator (emu8086) Intro 8086 Microprocessor Emulator, also known as
 ## Programs for arithmetic  operations
 
 ## Addition  of 8 bit ALP 
+```
+mov al, 53h    
+mov bl, 24h    
+add al, bl     
+hlt
 
-
-
+```
 ## Output  
- 
+
+![Screenshot 2024-08-24 134733](https://github.com/user-attachments/assets/dc1afa78-2b01-402d-bdba-ea8b22e04818)
+
 ## Subtraction   of 8 bit numbers  ALP 
- 
-## Output  
-## Multiplication alp 
- ## Output  
+```
+mov al, 53h;    
+mov bl, 24h;    
+add al, bl;    
+hlt
+```
+## Output 
 
+![Screenshot 2024-08-24 135635](https://github.com/user-attachments/assets/43d02f97-daad-4a2d-ac3e-0225006afe26)
+
+## Multiplication alp 
+```
+mov al, 53h;    
+mov bl, 24h;    
+mul bl;     
+hlt
+```
+## Output  
+
+![Screenshot 2024-08-24 140521](https://github.com/user-attachments/assets/73c292d9-5631-41d8-812a-3555a3768c44)
 
 ## Division alp 
-
+```
+mov al, 53h;    
+mov bl, 24h;    
+div bl;     
+hlt
+```
 ## Output  
 
+![Screenshot 2024-08-24 141015](https://github.com/user-attachments/assets/ef88fe8a-2785-48c7-be93-81f0ae5721d5)
+
+## LOGICAL OPERATIONS:
+### OR ALP:
+```
+mov al, 53h;    
+mov bl, 24h;    
+or al,bl;     
+hlt
+```
+### OUTPUT:
+
+![Screenshot 2024-08-24 141128](https://github.com/user-attachments/assets/eb9ff744-d02b-4fce-a307-03b249590293)
+
+### AND ALP:
+```
+mov al, 53h;    
+mov bl, 24h;    
+and al,bl;     
+hlt
+```
+### OUTPUT:
+![Screenshot 2024-08-24 141046](https://github.com/user-attachments/assets/d3f95e0c-04de-4bc3-a303-24e0d6e13843)
+
+### NOT ALP:
+```
+mov al, 53h;    
+mov bl, 24h;    
+not al;     
+hlt
+```
+### OUTPUT:
+![Screenshot 2024-08-24 141307](https://github.com/user-attachments/assets/80dde3b7-0074-4476-a7a9-d352e82d1223)
+
+
+### NAND ALP:
+```
+
+```
+### OUTPUT:
+
+### NOR ALP:
+```
+
+```
+### OUTPUT:
+
+### XOR ALP:
+```
+mov al, 53h;    
+mov bl, 24h;    
+xor al,bl;     
+hlt
+```
+### OUTPUT:
+
+![Screenshot 2024-08-24 141443](https://github.com/user-attachments/assets/69f8b0d9-cbc9-49de-b81f-0ad746019921)
 
 ## Result :
- 
+
+Thus, Assembly Language Program for fundamental arithmetic and logical operations are exected succesfully.
+
 
 
 
