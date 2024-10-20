@@ -3,9 +3,8 @@
 Name : Dharini PV
 
 Register no : 212222240024
+
 Date of experiment : 
-
-
 
 
 
@@ -155,19 +154,6 @@ hlt
 ```
 ### OUTPUT:
 ![Screenshot 2024-08-24 141307](https://github.com/user-attachments/assets/80dde3b7-0074-4476-a7a9-d352e82d1223)
-
-
-### NAND ALP:
-```
-
-```
-### OUTPUT:
-
-### NOR ALP:
-```
-
-```
-### OUTPUT:
 
 ### XOR ALP:
 ```
