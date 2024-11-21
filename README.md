@@ -94,7 +94,7 @@ hlt
 ```
 mov al, 53h;    
 mov bl, 24h;    
-add al, bl;    
+sub al, bl;    
 hlt
 ```
 ## Output 
